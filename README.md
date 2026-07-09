@@ -23,7 +23,9 @@ To reach these insights, the project is structured into three main phases:
 * Insight Generation & Visualisation
 
 Environment: Jupyter Notebook (Interactive development and documentation)
+
 Data Manipulation: Pandas & NumPy (Data cleaning, transformation, and Exploratory data analysis)
+
 Visualization: Matplotlib, Seaborn & Plotly (Exploratory data analysis and statistical plotting)
 
 # **DATASET**
